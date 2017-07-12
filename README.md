@@ -1,7 +1,7 @@
 # [Linux Socket Programming]: Chat room
 [Reference]:
-1) [www.cs.dartmouth.edu/~cambell/cs60/socketprogramming.html](www.cs.dartmouth.edu/~cambell/cs60/socketprogramming.html)
-2) [speed.cis.nctu.edu.tw/~ydlin/course/cn/np/tem-proj-spec-chatroom.pdf](speed.cis.nctu.edu.tw/~ydlin/course/cn/np/tem-proj-spec-chatroom.pdf)
+1) [http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html](http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html)
+2) [http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf](http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf)
 
 ## TCP client-server
 ![TCP server/client](http://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
