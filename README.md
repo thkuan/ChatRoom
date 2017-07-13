@@ -1,8 +1,9 @@
 # [Linux Socket Programming]: Chat room
 [Reference]:
 1) [Beej's Guide to Network Programming-Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
-2) [http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html](http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html)
-3) [http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf](http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf)
+2) [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/singlepage/bgipc.html)
+3) [http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html](http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html)
+4) [http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf](http://speed.cis.nctu.edu.tw/~ydlin/course/cn/np/term-proj-spec-chatroom.pdf)
 
 ## TCP client-server
 ![TCP server/client](http://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
