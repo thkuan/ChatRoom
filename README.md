@@ -1,5 +1,5 @@
 # [Linux Socket Programming]: Chat room
-[Reference]:
+**[Reference]**:
 1) [Beej's Guide to Network Programming-Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 2) [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/singlepage/bgipc.html)
 3) [http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html](http://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html)
