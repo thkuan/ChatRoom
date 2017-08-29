@@ -1,0 +1,3 @@
+```
+gcc xxx.c -lpthread
+```
